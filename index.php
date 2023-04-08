@@ -5,7 +5,7 @@
 	</label>
 	<br>
 	<label for="senha">Email:
-		<input type="password" name="email">
+		<input type="email" name="email">
 	</label>
 	<br>
 	<button>Entrar</button>
